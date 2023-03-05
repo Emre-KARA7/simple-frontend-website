@@ -1,0 +1,14 @@
+.navbarStyle{
+    flex-direction: column;
+}
+.imgProfile {
+    width: 70%;
+}
+.cardStyle{
+    width: 80%;
+    margin-right: 0;
+}
+
+.BaslikResmi{
+    height: auto;
+}
